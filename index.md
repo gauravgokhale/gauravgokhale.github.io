@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Data Science NLP 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[DGA Detection Using Linguistics Based Inferencing](/sample_page)
+<img src="images/Workload.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
