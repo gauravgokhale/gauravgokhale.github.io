@@ -4,7 +4,7 @@
 
 ### Data Science NLP 
 
-[DGA Detection Using Linguistics Based Inferencing](/sample_page)
+[DGA Detection Using Linguistics & Statistical Heuristics](/sample_page)
 <img src="images/Workload.png?raw=true"/>
 
 ---
