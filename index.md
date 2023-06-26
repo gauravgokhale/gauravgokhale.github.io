@@ -8,11 +8,10 @@
 <img src="images/Workload.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Network Traffic Routing & Optimization](/pdf/sample_presentation.pdf)
 
 ---
-[Project 3 Title](http://example.com/)
+[ML Based Obfuscated Command Line Detection](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
